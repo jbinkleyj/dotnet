@@ -1,0 +1,13 @@
+ 1087  cd projects
+ 1088  ls
+ 1089  ls -alt
+ 1090  mkdir dotnet
+ 1091  cd dotnet
+ 1092  vim install.sh
+ 1093  sh install.sh
+ 1094  sudo apt-get update
+ 1095  sudo apt-get install dotnet-sdk-2.1
+ 1096  echo "# dotnet" >> README.md
+ 1097  echo "# https://github.com/jbinkleyj/dotnet" >> README.md
+ 1098  history | tail -30
+ 1099  history | tail -13 >> hist.txt
