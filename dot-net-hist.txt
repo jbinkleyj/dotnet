@@ -1,0 +1,73 @@
+ 1087  cd projects
+ 1088  ls
+ 1089  ls -alt
+ 1090  mkdir dotnet
+ 1091  cd dotnet
+ 1092  vim install.sh
+ 1093  sh install.sh
+ 1094  sudo apt-get update
+ 1095  sudo apt-get install dotnet-sdk-2.1
+ 1096  echo "# dotnet" >> README.md
+ 1097  echo "# https://github.com/jbinkleyj/dotnet" >> README.md
+ 1098  history | tail -30
+ 1099  history | tail -13 >> hist.txt
+ 1100  git init
+ 1101  git add *
+ 1102  git commit -m "first commit"
+ 1103  git remote add origin git@github.com:jbinkleyj/dotnet.git
+ 1104  git push -u origin master
+ 1105  ls -alt
+ 1106  history
+ 1107  more install.sh
+ 1108  history
+ 1109  more install.sh
+ 1110  echo "# https://usermanual.wiki/Document/dotnetinstallmanual.1303124059.pdf" >> README.md
+ 1111  echo "# https://www.microsoft.com/net/download/linux-package-manager/debian9/sdk-current" >> README.md
+ 1112  more README.md
+ 1113  echo "# https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial?sdk-installed=true" >> README.md
+ 1114  dotnet new console -o myApp
+ 1115  cd myApp
+ 1116  ls
+ 1117  more Pro*
+ 1118  code .
+ 1119  dotnet run
+ 1120  cd ..
+ 1121  echo "# https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/arrays-and-collections" >> README.md
+ 1122  ls -alt
+ 1123  cd myApp
+ 1124  ls
+ 1125  ls bin
+ 1126  cp Program.cs hellow_world.cs
+ 1127  ls
+ 1128  cp ist_quickstart.cs Program.cs
+ 1129  cp list_quickstart.cs Program.cs
+ 1130  dotnet run
+ 1131  ls
+ 1132  dotnet run list_quickstart.cs
+ 1133  rm list_quickstart.cs
+ 1134  dotnet run list_quickstart.cs
+ 1135  dotnet run 
+ 1136  ls -alt
+ 1137  mv hellow_world.cs hellow_world.cs.txt
+ 1138  dotnet run 
+ 1139  cp list_quickstart.cs list_quickstart.cs.txt
+ 1140  cp Program.cs list_quickstart.cs.txt
+ 1141  cd ..
+ 1142  git clone https://github.com/dotnet/samples.git
+ 1143  cd .git
+ 1144  ls
+ 1145  ls -alt
+ 1146  more config
+ 1147  cp config ../sample.git.config
+ 1148  cd ..
+ 1149  cd sample
+ 1150  cd samples
+ 1151  cd .git
+ 1152  cp config ../../sample.git.config
+ 1153  cd ..
+ 1154  ls -alt
+ 1155  rm -rf .git
+ 1156  ls snippets
+ 1157  ls -alR snippets
+ 1158  cd ..
+ 1159  history >> hist.txt

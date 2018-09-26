@@ -1,0 +1,11 @@
+/home/jobin/projects/dotnet/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/home/jobin/projects/dotnet/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/home/jobin/projects/dotnet/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/home/jobin/projects/dotnet/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/home/jobin/projects/dotnet/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/home/jobin/projects/dotnet/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/home/jobin/projects/dotnet/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/home/jobin/projects/dotnet/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/home/jobin/projects/dotnet/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/home/jobin/projects/dotnet/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/home/jobin/projects/dotnet/myApp/obj/Debug/netcoreapp2.1/myApp.pdb

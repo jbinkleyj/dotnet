@@ -1,3 +1,927 @@
+  163  more makefile
+  164  nmake -f makefile
+  165  sudo apt-get install nmake -y
+  166  cmake
+  167  ls
+  168  cmake makefile
+  169  cmake .
+  170  which cmake
+  171  cmake -h
+  172  sudo apt-get install build-essentials -y
+  173  sudo apt-get install build-essential -y
+  174  cd ..
+  175  sudo apt-get install vscode
+  176  sudo apt-get install code
+  177  sudo bash
+  178  more ../.profile
+  179  history
+  180  history | more
+  181  sudo arp-scan 192.168.1.0/24
+  182  ls
+  183  ssh jobin@192.168.1.127
+  184  exit
+  185  ssh jobin@192.168.1.128
+  186  history | grep nmap
+  187  history | grep install
+  188  sudo apt-get install nbtscan -y
+  189  sudo nbtscan 
+  190  sudo nbtscan -r 192.168.1.0/24
+  191  sudo nbtscan -A 192.168.1.130
+  192  sudo nbtlookup -A 192.168.1.130
+  193  sudo apt-get install nbtlookup -y
+  194  sudo nmblookup -A 192.168.1.130
+  195  sudo apt-get install nmblookup -y
+  196  sudo nbtstat -A 192.168.1.130
+  197  sudo apt-get install intel-microcode -y
+  198  sudo bash
+  199  cd /etc/spe*
+  200  ls
+  201  more speechd.conf
+  202  sudo bash
+  203  ps -ef | grep cup
+  204  kill 11493
+  205  kill 11479
+  206  sudo kill 11479
+  207  ps -ef | grep cup
+  208  kill 1742
+  209  ps -ef | grep cup
+  210  kill 1741
+  211  sudo bash
+  212  sudo bash
+  213  ifconfig
+  214  ssh jobin@192.168.1.131
+  215  history
+  216  ssh jobin@192.168.1.131
+  217  ssh jobin@192.168.1.127
+  218  history
+  219  ls -alt
+  220  ls -alt *.txt
+  221  more scan*.txt
+  222  sudo arp-scan 192.168.1.0/24
+  223  ssh jobin@192.168.1.130
+  224  ssh jobin@192.168.1.110
+  225  ssh jobin@192.168.1.130
+  226  sudo bash
+  227  cd
+  228  ls .config
+  229  ls .config/conky
+  230  more .config/conky/conky.conf
+  231  conky -d &
+  232  ps
+  233  kill 2071
+  234  conky -h
+  235  conky -d -q
+  236  htop
+  237  history | grep cup
+  238  grep cup *.txt
+  239  grep cup *hist.txt
+  240  ls -alt
+  241  ls -alt | more
+  242  sudo bash
+  243  history | grep get
+  244  ssh jobin@192.168.1.130
+  245  ssh jobin@192.168.1.110
+  246  sudo apt-get install task-print-server
+  247  sudo apt-get install cups
+  248  sudo bash
+  249  ls
+  250  ls -alt
+  251  d
+  252  pwd
+  253  ls
+  254  vi typescript
+  255  which more
+  256  type -p more
+  257  </etc/motd pager
+  258  man builtins
+  259  echo $LANG
+  260  vim /etc/sudoers
+  261  ls
+  262  cat type*
+  263  ls -alt
+  264  mkdir simple-projects
+  265  cd simple-projects
+  266  mkdir asm
+  267  cd  asm
+  268  more ~/.vimrc
+  269  vim ~/.vimrc
+  270  vim notes.txt
+  271  vim ~/.vimrc
+  272  script
+  273  history
+  274  ls
+  275  more typescript
+  276  2R11;rgb:2323/2727/29291;4601;0c!
+  277  ls -alt
+  278  tail typescript
+  279  vim hello.asm
+  280  rm typescript
+  281  ls
+  282  vim hello.asm
+  283  nasm -felf64 hello.asm && ld hello.o && ./a.out
+  284  vim hello.asm
+  285  vim triangle.asm
+  286  nasm -felf64 triangle.asm && ld triangle.o && ./a.out
+  287  nasm -felf64 triangle.asm
+  288  ld triangle.o 
+  289  more hello.asm
+  290  more triangle.o 
+  291  more hello.asm
+  292  more triangle.asm
+  293  vim triangle.asm
+  294  nasm -felf64 triangle.asm && ld triangle.o && ./a.out
+  295  ls -alt
+  296  vim hello.mac.asm
+  297  sdiff hello.mac.asm hello.asm
+  298  vim triangle.asm
+  299  sdiff -w 140 hello.mac.asm hello.asm
+  300  more hello.asm
+  301  more triangle.asm
+  302  vim triangle.asm
+  303  nasm -felf64 triangle.asm && ld triangle.o && ./a.out
+  304  vim triangle.asm
+  305  nasm -felf64 triangle.asm && ld triangle.o && ./a.out
+  306  more triangle.asm
+  307  sdiff -w 140 hello.mac.asm hello.asm
+  308  more triangle.asm
+  309  exit
+  310  ls -alt Sources
+  311  more Sources
+  312  grep "^Package:" Sources | more
+  313  grep "^Package:" Sources | wc
+  314  grep "^Package:" Sources | more
+  315  more Sources
+  316  vim Sources
+  317  grep "^Package:" Sources | grep asm | more
+  318  grep "^Package:" Sources | grep devel | more
+  319  sudo apt-get install gnome-devel-docs
+  320  cd ..
+  321  cd .config
+  322  cd conky
+  323  ls
+  324  more conky.conf
+  325  exit
+  326  ls -alt | grep -i asm
+  327  ls -alt | more
+  328  cd pdf*
+  329  ls pdf*
+  330  ls pdf*master
+  331  cd pdf*master
+  332  ls -alt | grep -i asm
+  333  ls -alt | grep -i ass
+  334  ls -alt | grep -i ass | more
+  335  exit
+  336  find / -name \*vnc\* -print
+  337  more /usr/share/help/C/lightdm/vnc.page /home/jobin/Software/john-1.8.0-jumbo-1/src/vncpcap2john.c
+  338  pwd
+  339  exit
+  340  history | grep xml
+  341  cd Downloads
+  342  grep fidel *.xml
+  343  cd ..
+  344  cd Documents
+  345  grep fidel *.xml
+  346  sudo bash
+  347  cd
+  348  ls -alt  ~/.local/share/xorg/
+  349  ls -alt  ~/.local/share/
+  350  ls /usr/share/menu
+  351  ls /usr/share/menu/x11-apps
+  352  ls -alt /usr/share/menu/x11-apps
+  353  more /usr/share/menu/x11-apps
+  354  man sudo
+  355  more /etc/gdm3/daemon.conf
+  356  ls /etc/gdm3/
+  357  ls /etc/gd*
+  358  ls /etc/*
+  359  ls /etc
+  360  ls -alt /etc | more
+  361  ls /etc/lightdm
+  362  ls /etc/lightdm/*.conf
+  363  more /etc/lightdm/*.conf
+  364  sudo -E bash
+  365  exit
+  366  vim todo.txt
+  367  vim compiler-vector.txt
+  368  which nasm
+  369  which gasm
+  370  sudo bash
+  371  vim .bashrc
+  372  more /usr/share/doc-base/debian-constitution-text
+  373  sudo apt-get install doc-debian
+  374  more /usr/share/doc-base/debian-constitution-text
+  375  zcat /usr/share/doc/debian/constitution.1.0.txt.gz | more
+  376  sudo apt-get install developers-reference 
+  377  more /usr/share/doc/developers-reference/TODO
+  378  more /usr/share/doc/developers-reference/tools.html
+  379  ls -alt /usr/share/doc/developers-reference/
+  380  ls -alt /lib/firmware
+  381  ls -alt /lib/firmware | more
+  382  uname -a
+  383  uname -r
+  384  ls -alt /lib/firmware/4*
+  385  ls /usr/local/lib/firmware
+  386  ls /usr/local
+  387  /sbin/modinfo
+  388  dir="$(find /lib/modules/ -mindepth 1 -maxdepth 1 -print0 | sort -zr | head -zn1)"
+  389  export dir="$(find /lib/modules/ -mindepth 1 -maxdepth 1 -print0 | sort -zr | head -zn1)"
+  390  find /lib/modules/ -mindepth 1 -maxdepth 1 -print0 | sort -zr | head -zn1
+  391  export  dir="/lib/modules/4.9.0-7-amd64"
+  392  find "$dir" -type f -name '*.ko'
+  393  /sbin/modinfo /lib/modules/4.9.0-7-amd64/kernel/drivers/edac/amd64_edac_mod.ko
+  394  find "$dir" -type f -name '*.ko' > all-ko.txt
+  395  more all-ko.txt
+  396  more all-ko.txt
+  397  /sbin/modinfo /lib/modules/4.9.0-7-amd64/kernel/net/ipv4/tcp_lp.ko
+  398  cat all-ko.txt | while read -r m ; do /sbin/modinfo "$m" |  grep -E '^(firmware:|depends:.*firmware)' |  sed -e "s#.*#$m#"; done | sort -u | more
+  399  sh expose-firmware.sh
+  400  sh expose-firmware.sh > exposed-firmware.out.txt
+  401  more exposed-firmware.out.txt
+  402  cat exposed-firmware.out.txt | cut -d"|" -f3
+  403  cat exposed-firmware.out.txt | cut -d"|" -f3,4
+  404  cat exposed-firmware.out.txt | cut -d"|" -f3,4,5
+  405  cat exposed-firmware.out.txt | cut -d"|" -f3,4,5 | more
+  406  which nginx
+  407  sudo bash
+  408  which readelf
+  409  readelf -l | more
+  410  readelf -l /bin/cat
+  411  readelf -l /bin/cat | grep STACK
+  412  history | tail -30 >> hist.txt
+  413  history | tail -30 
+  414  eit
+  415  exit
+  416  exit
+  417  google-chrome
+  418  sudo bash
+  419  which binwalk
+  420  cd Downloads
+  421  ls *walk*
+  422  which binwalk
+  423  strings /usr/bin/binwalk |more
+  424  ls -alt /usr/bin/binwalk 
+  425  binwalk /usr/bin/binwalk
+  426  which who
+  427  binwalk /usr/bin/who
+  428  history
+  429  which readelf
+  430  binwalk (which readelf)
+  431  binwalk ("which readelf")
+  432  ls /etc
+  433  ls /etc/*.sh
+  434  binwalk ("{which readelf}")
+  435  binwalk ({which readelf})
+  436  binwalk $(which readelf)
+  437  sudo bash
+  438  git clone https://github.com/ekalinin/Dockerfile.vim.git
+  439  cd Dockerfile.vim
+  440  ls
+  441  more Makefile
+  442  make
+  443  make install
+  444  vim Dockerfile
+  445  echo "" > Dockerfile
+  446  vim Dockerfile
+  447  cd ~/.vim
+  448  ls
+  449  ls -alt
+  450  cd snippets
+  451  ls
+  452  more *
+  453  cd
+  454  cd Downloads
+  455  vim Dockerfile
+  456  cd ..
+  457  cd .vim 
+  458  mkdir bundle
+  459  cd bundle
+  460  git clone https://github.com/tomtom/tlib_vim.git
+  461  git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
+  462  git clone https://github.com/garbas/vim-snipmate.git
+  463  vim Dockerfile
+  464  ls
+  465  ls -alR | more
+  466  more ./vim-snipmate/t/*
+  467  cd
+  468  vim test.c
+  469  which vim
+  470  vim --version
+  471  cd .vimrc
+  472  cd .vim
+  473  ls
+  474  ls ../Downloads/vimrc
+  475  cp ../Downloads/vimrc .
+  476  vim vimrc
+  477  mkdir autoload
+  478  cd autoload
+  479  ls
+  480  cp ~/Downloads/pathogen.vim .
+  481  vim a.c
+  482  curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+  483  cd ..
+  484  cd bundle
+  485  ls
+  486  git clone https://github.com/tpope/vim-sensible.git
+  487  cd ..
+  488  vim c.c
+  489  ps -ejH | grep olad
+  490  ps -ejH | more
+  491  ps -ef | grep host
+  492  pwd
+  493  vin .gitconfig2
+  494  vim .gitconfig2
+  495  pwd
+  496  mkdir downloads_github
+  497  cd downloads_github
+  498  ls
+  499  mkdir jessfraz
+  500  cd jessfraz
+  501  git clone https://github.com/jessfraz/dotfiles.git
+  502  ls /var/run/user/
+  503  ls /var/run/user/1000/bus
+  504  more /var/run/user/1000/bus
+  505  ls -alt /var/run/user/1000/bus
+  506  cat /var/run/user/1000/bus
+  507  cd ..
+  508  ls -alt
+  509  ls -alt | more
+  510  ls -alt .x* | more
+  511  ls -alt .X* | more
+  512  cd
+  513  docker pull google/cadvisor
+  514  vim cadisor.sh
+  515  bash cadisor.sh
+  516  cd ~/jessfraz
+  517  git clone https://github.com/jessfraz/dockerfiles
+  518  ps -ejH
+  519  ps -ejH | more
+  520  cd downloads_github
+  521  cd ../downloads_github
+  522  cd jes*
+  523  git clone https://github.com/jessfraz/dockerfiles.git
+  524  sudo bash
+  525  capstone
+  526  sudo bash
+  527  history grep which
+  528  history | grep which
+  529  pwd
+  530  mkdir jessfraz
+  531  cd jessfraz
+  532  https://github.com/jessfraz/dotfiles.git
+  533  git clone https://github.com/jessfraz/dotfiles.git
+  534  more /etc/X11/xinit/xinitrc.d
+  535  ls /etc/X11/xinit*
+  536  more /etc/X11/xinit/xinitrc
+  537  which startx
+  538  ps -ef | more
+  539  man ps
+  540  which finger
+  541  sudo bash
+  542  which objdump
+  543  objdump --help
+  544  which node
+  545  sudo apt-get install nodejs -y
+  546  sudo apt-get install npm -y
+  547  which npm
+  548  sudo apt-get install nodejs-legacy
+  549  npm
+  550  apt-get install npm
+  551  sudo apt-get install npm
+  552  sudo apt-get install -y build-essential
+  553  sudo apt autoremove
+  554  curl -sL https://deb.nodesource.com/setup_10.x 
+  555  curl -sL https://deb.nodesource.com/setup_10.x sudo -E bash -
+  556  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+  557  sudo apt-get install -y nodejs
+  558  sudo apt-get install gcc g++ make
+  559  curl --silent --location https://rpm.nodesource.com/setup_10.x | sudo bash -
+  560  curl --silent --location https://rpm.nodesource.com/setup_10.x | more
+  561  nodejs --version
+  562  curl --silent --location https://rpm.nodesource.com/setup_10.x > npm_setup_10.sh
+  563  more npm_setup_10.sh
+  564  sudo apt-get install curl software-properties-common
+  565  npm -v
+  566  node -v
+  567  vim http_server.js
+  568  sudo node http_server.js
+  569  vim http_server.js
+  570  sudo npm install yarn -g
+  571  curl -o- -L https://yarnpkg.com/install.sh > install_yarn.sh
+  572  more install_yarn.sh
+  573  cmake -v
+  574  cmake --version
+  575  sudo apt-get install libleveldb-dev
+  576  sudo bash
+  577  cd download*github*
+  578  ls
+  579  python glassdoor-salary-scraper.py
+  580  sudo apt-get install python-bs4
+  581  sudo apt-get install python3-bs4
+  582  pip install beautifulsoup4
+  583  python glassdoor-salary-scraper.py
+  584  more glassdoor-salary-scraper.py
+  585  vim glassdoor-salary-scraper.py
+  586  python glassdoor-salary-scraper.py
+  587  vim glassdoor-salary-scraper.py
+  588  pip install requests
+  589  python glassdoor-salary-scraper.py
+  590  python glassdoor-salary-scraper.py jobs.txt
+  591  cd ..
+  592  cd Downloads
+  593  cd ..
+  594  mkdir downloads_general
+  595  cd downloads_general
+  596  svn checkout https://svn.code.sf.net/p/hlav1/code/trunk hlav1-code
+  597  ls
+  598  ls -alt
+  599  exit
+  600  mkdir projects
+  601  cd projects
+  602  mkdir simple-asm-c
+  603  cd simple-asm-c
+  604  vim simplest.c
+  605  gcc simplest.c
+  606  ls -alt
+  607  ./a.out
+  608  od a.out | more
+  609  man gcc
+  610  gcc --help
+  611  gcc -c simplest.c
+  612  ls -alt
+  613  od simplest.o | more
+  614  strings simplest.o | more
+  615  vim asemble.sh
+  616  vim asmhello.asm
+  617  echo "http://mammon.github.io/Text/linux_apj.txt" >> source.url.txt
+  618  ls -alt
+  619  ls
+  620  vim nasm-helloworld.asm
+  621  nasm -fwin32 nasm-helloworld.asm
+  622  vim nasm-helloworld.asm
+  623  nasm -fwin32 nasm-helloworld.asm
+  624  gcc nasm-helloworld.obj
+  625  vim nasm-helloworld.asm
+  626  nasm  nasm-helloworld.asm
+  627  nasm --help
+  628  man nasm
+  629  as  nasm-helloworld.asm
+  630  man nasm
+  631  nasm -hf
+  632  nasm -felf64 nasm-helloworld.asm
+  633  gcc nasm-helloworld.obj
+  634  nasm -felfx64 nasm-helloworld.asm
+  635  nasm -felf nasm-helloworld.asm
+  636  gcc nasm-helloworld.obj
+  637  ls -alt nasm-helloworld.obj
+  638  od nasm-helloworld.obj | more
+  639  nasm -felf nasm-helloworld.asm
+  640  gcc nasm-helloworld.o
+  641  vim nasm-helloworld.asm
+  642  nasm -felf nasm-helloworld.asm
+  643  ls -alt
+  644  gcc nasm-helloworld.o
+  645  vim hello.c
+  646  cc hello.c
+  647  ls -alt
+  648  ./a.out
+  649  mv hello.c hello-asm.c
+  650  cat > hello.c << "EOF"
+  651  #include <stdio.h>
+  652  int main(int argc, char* argv[])
+  653  {
+  654      printf("hello\n");
+  655      return 0;
+  656  }
+  657  EOF
+  658  vim hello.c
+  659  gcc -O0 g hello.c
+  660  gcc -O0 -g hello.c
+  661  ./a.out
+  662  gdb a.out
+  663  sudo apt-get install gdb
+  664  gdb a.out
+  665  echo "https://www.gamekiller.net/threads/tutorial-writing-c-software-without-the-standard-library-linux-edition.3247890/" >> gdb-url.txt
+  666  echo "https://people.debian.org/~osamu/fun2prog.html" >> fun2origurl.txt
+  667  ps -ef | more
+  668  ls -alt /tmp/mozilla_jobin0/PaperBak.exe
+  669  cp /tmp/mozilla_jobin0/PaperBak.exe .
+  670  which file-roller
+  671  strings /usr/bin/file-roller | more
+  672  mkdir posible-virus
+  673  cp /usr/bin/file-roller posible-virus
+  674  cp /tmp/mozilla_jobin0/PaperBak.exe posible-virus
+  675  ls -alt /usr/bin/file-roller | more
+  676  ls -alt /tmp/mozilla_jobin0/PaperBak.exe 
+  677  ls -alt posible-virus
+  678  cd posible-virus
+  679  ls
+  680  od PaperBak.exe
+  681  od PaperBak.exe | more
+  682  strings PaperBak.exe | more
+  683  strings PaperBak.exe | grep Direction
+  684  strings PaperBak.exe | grep Find
+  685  strings PaperBak.exe | grep 
+  686  strings PaperBak.exe | grep Wrap
+  687  history >> hist.txt
+  688  cd down*hub
+  689  cd memz
+  690  git clone https://github.com/zyobi/memzipimport.git
+  691  git clone https://github.com/nisaruj/memz.git nisaruj-memz
+  692  git clone https://github.com/DigitalJokerMan/MEMZ-MBR-Overwriter.git DigitalJokerMan-MEMZ-MBR-Overwriter
+  693  git clone https://github.com/EricZhang456/memz-download.git EricZhang456-memz-download
+  694  git clone https://github.com/Lima-X-Coding/MEMZ.C.git Lima-X-Coding-MEMZ.C
+  695  git clone https://github.com/gurvanrenault/memz.js.git gurvanrenault-memz.js
+  696  git clone https://github.com/vinlind/memzEXE.git vinlind-memzEXE
+  697  git clone https://github.com/Matelpro777/MEMZ-4.0-pannel.git Matelpro777-MEMZ-4.0-pannel
+  698  git clone https://github.com/UnforeseenOcean/memz-1.git UnforeseenOcean-memz-1
+  699  git clone https://github.com/NathanH2/memz.git NathanH2-memz
+  700  ps -ef | grep -i mem
+  701  ls | grep EXE
+  702  cd linlind*
+  703  cd vinlind-memzEXE
+  704  ls
+  705  ls -alt
+  706  strings MEMZ.exe | more
+  707  cd ..
+  708  git clone https://github.com/vinlind/vinlind.github.io.git vinlind-vinlind.github.io
+  709  ls Mat*
+  710  git clone https://github.com/Matelpro777/awesome-Matrixcode.git Matelpro777-awesome-Matrixcode
+  711  git clone https://github.com/Matelpro777/MEMZ-4.0-.git Matelpro777-MEMZ-4.0-
+  712  cd Matelpro777-MEMZ-4.0-
+  713  ls
+  714  unzip *.zip
+  715  ls -alt
+  716  cd MEM*Clean
+  717  ls
+  718  cd ..
+  719  strings M*.zip | more
+  720  cd ..
+  721  ls Leu*
+  722  git clone https://github.com/Leurak/MEMZ.git Leurak-MEMZ
+  723  ls N*
+  724  ls L*
+  725  git clone https://github.com/Leurak/VineMEMZ.git Leurak-VineMEMZ
+  726  cd download*github*
+  727  mkdir memz
+  728  cd memz
+  729  git clone https://github.com/Leurak/MEMZ.git
+  730  git clone https://github.com/Leurak/VineMEMZ.git
+  731  git clone https://github.com/Horter/MEMZ-4.0.git
+  732  git clone https://github.com/bastienFalcou/Memz.git bastienFalcou-Memz
+  733  ssh 192.168.1.90
+  734  ssh  192.168.1.102
+  735  od
+  736  365*13=
+  737  oc
+  738  od
+  739  calc
+  740  cd Docu*
+  741  ls *.xml
+  742  grep -i navy *.xml
+  743  grep -i 202088 *.xml
+  744  ssh 192.168.1.90
+  745  ssh  192.168.1.102
+  746  exit
+  747  nvidia-detect
+  748  sudo bash
+  749  cd
+  750  cd Downloads
+  751  wine-stable silhouette-studio_v4.1.468.exe
+  752  cd ..
+  753  cd .wine
+  754  ls
+  755  cd drive_c
+  756  ls
+  757  ls -alt users
+  758  ls -alt users/jobin
+  759  ls -alt users
+  760  ls -alt Public
+  761  ls
+  762  ls -alt windows
+  763  cd users
+  764  ls
+  765  cd jobin
+  766  ls -alt
+  767  cd Downloads
+  768  ls
+  769  cp ~/Downloads/silhouette-studio_v4.1.468.exe .
+  770  cd ..
+  771  ls
+  772  cd ..
+  773  ls
+  774  cd ..
+  775  ls
+  776  cd Studio
+  777  ls
+  778  cd ..
+  779  ls -alt
+  780  ls users/jobin
+  781  ls users/jobin/Application\ Data
+  782  ls -alR  users/jobin/Application\ Data
+  783  cd  users/jobin/Application\ Data
+  784  cd Silhouette\ America
+  785  ls
+  786  cd S*
+  787  ls
+  788  cd install
+  789  wineconsole  
+  790  ls
+  791  cd DB*
+  792  ls
+  793  cd ..
+  794  ls
+  795  cd install
+  796  ls
+  797  cd BD*
+  798  ls
+  799  wineconsole  --backend=user setup.msi
+  800  wine setup.msi
+  801  cd ../..
+  802  ls
+  803  ls Microsoft
+  804  ls
+  805  ls Microsoft
+  806  ls
+  807  ls Silhouette*
+  808  ls Silhouette*/Silhouette*
+  809  ls Silhouette*/Silhouette*/install
+  810  ls Silhouette*/Silhouette*/install/BD*
+  811  ls -alt Silhouette*/Silhouette*/install/BD*
+  812  ls -alt
+  813  ls ..
+  814  cd ..
+  815  ls
+  816  cd ..
+  817  ls
+  818  cd ..
+  819  ls
+  820  cd ..
+  821  ls
+  822  more system.reg
+  823  ls
+  824  more user.reg
+  825  regedit
+  826  ls -alt
+  827  cd drive_c
+  828  ls
+  829  ls -alt
+  830  ls -alt Studio
+  831  ls -alt windows
+  832  ls -alt
+  833  ls -alt users
+  834  ls -alt users/jobin
+  835  ls -alt users/jobin/Application*
+  836  ls -alt users/jobin/Application*/Sil*
+  837  ls -alt users/jobin/Application*/Sil*/Sil*
+  838  ls -alt users/jobin/Application*/Sil*/Sil*/install
+  839  ls -alt users/jobin/Application*/Sil*/Sil*/install/BD*
+  840  winecfg
+  841  regedit
+  842  ls -alt users/jobin/Application*/Sil*/Sil*/install/BD*
+  843  rm -rf users/jobin/Application*/Sil*/Sil*/install/BD*
+  844  rm -rf users/jobin/Application*/Sil*
+  845  ls users/jobin/Application*/Sil*
+  846  ls users/jobin/Application*/
+  847  ls users/jobin/Application*/Microsoft
+  848  ls -alt users/jobin/Application*/Microsoft
+  849  rmdir users/jobin/Application*/Microsoft
+  850  ls
+  851  ls -alt Studio
+  852  rm dir Studio
+  853  rmdir Studio
+  854  ls
+  855  ls ..
+  856  ls ../dosdevices
+  857  ls ../dosdevices/c:
+  858  ls ../dosdevices/d::
+  859  ls ../dosdevices/d:
+  860  ls ../dosdevices/z:
+  861  ls ../dosdevices/z:/home
+  862  ls ../dosdevices/z:/home/jobin
+  863  sudo bash
+  864  ssh 192.168.1.102
+  865  sudo bash
+  866  cd Downloads
+  867  ls *.txt
+  868  ls *.exe
+  869  vine silhouette-studio_v4.1.468.exe
+  870  wine silhouette-studio_v4.1.468.exe
+  871  man wine
+  872  wineconsole
+  873  winecfg
+  874  wine64 silhouette-studio_v4.1.468.exe
+  875  /usr/bin/wineboot
+  876  ps -ef | grep wine
+  877  wine-stable silhouette-studio_v4.1.468.exe
+  878  ls -alt .. | more
+  879  ls -alt ../.wine
+  880  ls -alt ../.wine/dosdevies
+  881  ls -alt ../.wine/dosdevices
+  882  ls -alt ../.wine/drive_c
+  883  ls -alR ../.wine/drive_c
+  884  ls -alt ../.wine/drive_c
+  885  ls -alt ../.wine/drive_c/users
+  886  ls -alt ../.wine/drive_c/users/jobin
+  887  ls -alt ../.wine
+  888  ls -alt ../.wine/drive_c
+  889  ls -alt ../.wine/drive_c/windows/*
+  890  ls -alt ../.wine/drive_c/windows/* | more
+  891  ls -alt /usr/bin/*wine*
+  892  ls -alt /usr/bin/*wine* | more
+  893  ls -alt ../.wine/drive_c
+  894  rmdir ../.wine/drive_c/Program*
+  895  cd ../.wine/drive_c/
+  896  ls -alt
+  897  rm -rf Program*
+  898  ls -alt
+  899  ls -alt windows
+  900  cd
+  901  cd downloads
+  902  cd Downloads
+  903  ls
+  904  history
+  905  winecfg
+  906  wine-stable
+  907  export WINEARCH=win32
+  908  ls *.exe
+  909  wineconsole -- --backend-user silhouette-studio_v4.1.468.exe
+  910  export WINEARCH=win64
+  911  wineconsole -- --backend-user silhouette-studio_v4.1.468.exe
+  912  wineconsole -- --backend=user silhouette-studio_v4.1.468.exe
+  913  wineconsole  --backend=user silhouette-studio_v4.1.468.exe
+  914  export installroot="c:"
+  915  wineconsole  --backend=user silhouette-studio_v4.1.468.exe
+  916  winecfg
+  917  wineconsole  --backend=user silhouette-studio_v4.1.468.exe
+  918  winecfg
+  919  wineconsole  --backend=user silhouette-studio_v4.1.468.exe
+  920  export installroot="c:\\Software"
+  921  wineconsole  --backend=user silhouette-studio_v4.1.468.exe
+  922  history
+  923  ssh 192.168.1.90
+  924  echo "https://my.navyfederal.org/NFOAA_Auth/findmyusername.xhtml" >> url.txt
+  925  ssh 192.168.1.90
+  926  echo "https://my.navyfederal.org/NFOAA_Auth/findmyusername.xhtml" >> url.txt
+  927  history
+  928  ls -alt *.txt
+  929  sudo bash
+  930  history | grep ssh
+  931  exit
+  932  history
+  933  date
+  934  history >> 09082018-hist.txt
+  935  more 09082018-hist.txt
+  936  grep ssh 09082018-hist.txt
+  937  more 09082018-hist.txt
+  938  ps -ef | grep automount
+  939  man automount
+  940  sudo bash
+  941  fdisk -l
+  942  sudo bash
+  943  history
+  944  ssh 192.168.1.90
+  945  pwd
+  946  ssh 192.168.1.90
+  947  exit
+  948  ls -alt
+  949  sdiff circle-text-original.js circle-text.js | more
+  950  sdiff -w 120 circle-text-original.js circle-text.js | more
+  951  ls -alt
+  952  sdiff hilton-head-island-bubble.html index-example.html | more
+  953  ## 28.408813, -80.611408
+  954  ## 28.408823, -80.610260
+  955  ## 350 ft
+  956  bc
+  957  cd Documents
+  958  mkdir art
+  959  cd art
+  960  echo "# art" >> README.md
+  961  git init
+  962  git add all
+  963  git add *
+  964  git commit -m "first commit"
+  965  git remote add origin git@github.com:jbinkleyj/art.git
+  966  git push -u origin master
+  967  ls
+  968  cd _T_Shirt_Related
+  969  ls
+  970  cd svg_testing
+  971  ls
+  972  grep Hilton *
+  973  grep Hilton * | more
+  974  mv musically_ut_d3_circle_text_1.html hilton-head-island-bubble.html
+  975  ls
+  976  cd d3
+  977  ls
+  978  ls -alt
+  979  cd .git
+  980  ls
+  981  more config
+  982  cd ,,
+  983  cd ..
+  984  echo "https://github.com/mbostock/d3.git" >>d3.url
+  985  ls
+  986  ls -alt
+  987  ls aahad-D3.js/.git/config
+  988  more aahad-D3.js/.git/config
+  989  echo "https://github.com/aahad/D3.js.git" >> D3.js.url
+  990  ls Kineticjs
+  991  ls K*
+  992  cd K*
+  993  cd .
+  994  cd ..
+  995  more KineticJS/.git/config
+  996  echo "https://github.com/ericdrowell/KineticJS.git" >> KineticJS.url
+  997  ls
+  998  mkdir saved_svgs
+  999  mv *.svg saved_svgs
+ 1000  ls -alt
+ 1001  grep Hilton *
+ 1002  ls
+ 1003  ls -alt
+ 1004  cd musi*
+ 1005  ls
+ 1006  ls -alt
+ 1007  cd .git
+ 1008  ls
+ 1009  more config
+ 1010  cd ../..
+ 1011  echo "https://github.com/musically-ut/d3-circle-text.git" >> d3-circle-text.url
+ 1012  git clone https://github.com/musically-ut/d3-circle-text.git
+ 1013  cd sghall-d3-threejs
+ 1014  ls
+ 1015  more .git/config
+ 1016  cd ..
+ 1017  echo "https://github.com/sghall/d3-threejs" >> d3-threejs.url
+ 1018  ls -alt
+ 1019  cd ..
+ 1020  ls -alt
+ 1021  mkdir saved_jpgs
+ 1022  mv *.jpg saved_jpgs
+ 1023  ls -alt
+ 1024  mkdir saved_png
+ 1025  rmdir saved_png
+ 1026  mkdir saved_pngs
+ 1027  mv *.png saved_pngs
+ 1028  ls
+ 1029  mkdir saved_xcfs
+ 1030  mv *.xcf saved_xcfs
+ 1031  cd ..
+ 1032  ls
+ 1033  history | grep git
+ 1034  git add *
+ 1035  commit -m "second commit"
+ 1036  git commit -m "second commit"
+ 1037  history | grep git
+ 1038  git push -u origin master
+ 1039  git commit -m "added origina circle-text"
+ 1040  git add *
+ 1041  git commit -m "added origina circle-text"
+ 1042  ## font Amita Bold
+ 1043  ## font Keania one regular
+ 1044  cd Doc*
+ 1045  ls *.xml
+ 1046  grep -i facebook *.xml
+ 1047  history | grep diff
+ 1048  ls
+ 1049  sdiff -w 140 debian-live-9.5.0-source-cinnamon.contents debian-live-9.5.0-source-gnome.contents
+ 1050  sdiff -w 140 debian-live-9.5.0-source-cinnamon.contents debian-live-9.5.0-source-gnome.contents | more
+ 1051  sdiff -w 140 $(cat debian-live-9.5.0-source-cinnamon.contents) $(cat debian-live-9.5.0-source-gnome.contents) | more
+ 1052  sdiff -w 140 $(cat debian-live-9.5.0-source-cinnamon.contents) debian-live-9.5.0-source-gnome.contents | more
+ 1053  sdiff -w 140 $(cat debian-live-9.5.0-source-cinnamon.contents) debian-live-9.5.0-source-gnome.contents 
+ 1054  sdiff --help
+ 1055  sdiff -w 140 $(cat -n debian-live-9.5.0-source-cinnamon.contents) $(cat -n debian-live-9.5.0-source-gnome.contents) | more
+ 1056  sdiff -w 140 $(cat -n debian-live-9.5.0-source-cinnamon.contents) $(cat -n debian-live-9.5.0-source-gnome.contents) 
+ 1057  sdiff -w 140 <$(cat -n debian-live-9.5.0-source-cinnamon.contents) <$(cat -n debian-live-9.5.0-source-gnome.contents) 
+ 1058  sdiff -w 140 < $(cat -n debian-live-9.5.0-source-cinnamon.contents) < $(cat -n debian-live-9.5.0-source-gnome.contents) 
+ 1059  sdiff -w 140 <(debian-live-9.5.0-source-cinnamon.contents) <(debian-live-9.5.0-source-gnome.contents) 
+ 1060  sdiff -w 140 <(cat debian-live-9.5.0-source-cinnamon.contents) <(cat debian-live-9.5.0-source-gnome.contents) 
+ 1061  sdiff -w 140 <(cat debian-live-9.5.0-source-cinnamon.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) 
+ 1062  sdiff -w 140 <(cat debian-live-9.5.0-source-cinnamon.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) | more
+ 1063  history >> hist.txt
+ 1064  sdiff -w 140 -d <(cat debian-live-9.5.0-source-cinnamon.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) | more
+ 1065  sdiff --help
+ 1066  man sdiff 
+ 1067  sdiff -w 140 -s <(cat debian-live-9.5.0-source-cinnamon.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) | more
+ 1068  sdiff -w 140 -s <(cat debian-live-9.5.0-source-cinnamon.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) | wc
+ 1069  wc *
+ 1070  sdiff -w 140 -s <(cat debian-live-9.5.0-source-lxde.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) | wc
+ 1071  sdiff -w 140 -s <(cat debian-live-9.5.0-source-lxde.contents| sort) <(cat debian-live-9.5.0-source-gnome.contents|sort) | more
+ 1072  history
+ 1073  history | tail -20 >> hist.txt
+ 1074  ls -alt
+ 1075  cd ..
+ 1076  ls
+ 1077  cd ..
+ 1078  ls
+ 1079  dm-tool --help
+ 1080  more /etc/lightdm/lightdm-gtk-greeter.conf
+ 1081  ps -ef | grep -i dm
+ 1082  ping 192.168.1.124
+ 1083  telnet 192.168.1.124
+ 1084  ssh 192.168.1.124
+ 1085  snmpget 192.168.1.124
+ 1086  ls
  1087  cd projects
  1088  ls
  1089  ls -alt
@@ -11,3 +935,66 @@
  1097  echo "# https://github.com/jbinkleyj/dotnet" >> README.md
  1098  history | tail -30
  1099  history | tail -13 >> hist.txt
+ 1100  git init
+ 1101  git add *
+ 1102  git commit -m "first commit"
+ 1103  git remote add origin git@github.com:jbinkleyj/dotnet.git
+ 1104  git push -u origin master
+ 1105  ls -alt
+ 1106  history
+ 1107  more install.sh
+ 1108  history
+ 1109  more install.sh
+ 1110  echo "# https://usermanual.wiki/Document/dotnetinstallmanual.1303124059.pdf" >> README.md
+ 1111  echo "# https://www.microsoft.com/net/download/linux-package-manager/debian9/sdk-current" >> README.md
+ 1112  more README.md
+ 1113  echo "# https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial?sdk-installed=true" >> README.md
+ 1114  dotnet new console -o myApp
+ 1115  cd myApp
+ 1116  ls
+ 1117  more Pro*
+ 1118  code .
+ 1119  dotnet run
+ 1120  cd ..
+ 1121  echo "# https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/arrays-and-collections" >> README.md
+ 1122  ls -alt
+ 1123  cd myApp
+ 1124  ls
+ 1125  ls bin
+ 1126  cp Program.cs hellow_world.cs
+ 1127  ls
+ 1128  cp ist_quickstart.cs Program.cs
+ 1129  cp list_quickstart.cs Program.cs
+ 1130  dotnet run
+ 1131  ls
+ 1132  dotnet run list_quickstart.cs
+ 1133  rm list_quickstart.cs
+ 1134  dotnet run list_quickstart.cs
+ 1135  dotnet run 
+ 1136  ls -alt
+ 1137  mv hellow_world.cs hellow_world.cs.txt
+ 1138  dotnet run 
+ 1139  cp list_quickstart.cs list_quickstart.cs.txt
+ 1140  cp Program.cs list_quickstart.cs.txt
+ 1141  cd ..
+ 1142  git clone https://github.com/dotnet/samples.git
+ 1143  cd .git
+ 1144  ls
+ 1145  ls -alt
+ 1146  more config
+ 1147  cp config ../sample.git.config
+ 1148  cd ..
+ 1149  cd sample
+ 1150  cd samples
+ 1151  cd .git
+ 1152  cp config ../../sample.git.config
+ 1153  cd ..
+ 1154  ls -alt
+ 1155  rm -rf .git
+ 1156  ls snippets
+ 1157  ls -alR snippets
+ 1158  cd ..
+ 1159  history >> hist.txt
+ 1160  vim hist.txt
+ 1161  mv hist.txt dot-net-hist.txt
+ 1162  history > hist.txt
